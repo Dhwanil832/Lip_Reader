@@ -20,7 +20,7 @@ To use LipReader, follow these steps:
 
 1. Clone the repository:
 ```shell
-git clone https://github.com/your-username/lipreader.git
+git clone [https://github.com/your-username/lipreader.git](https://github.com/Dhwanil832/Lip_Reader.git)
 ```
 
 2. Install the dependencies:
