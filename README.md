@@ -1,20 +1,6 @@
-LipReader using LipNet
-LipReader is a web application developed using the LipNet deep learning model for lip reading. It predicts the spoken words by analyzing lip movements in a video.
-
-Overview
-The LipReader application allows users to select a video and visualize the lip movements detected by the machine learning model. It then generates a prediction of the spoken words based on the lip movements.
-
-LipReader Demo
-
-Features
-Select a video: Choose from a list of available videos for lip reading analysis.
-Visualize lip movements: The application displays the video with annotated lip regions to show what the machine learning model sees during prediction.
-Generate predictions: The model predicts the spoken words based on the lip movements and displays the results as tokens and converted text.
 # LipReader
 
 LipReader is a web application developed using the LipNet deep learning model for lip reading. It predicts the spoken words by analyzing lip movements in a video.
-
-![LipReader Demo](screenshots/demo.png)
 
 ## Table of Contents
 
