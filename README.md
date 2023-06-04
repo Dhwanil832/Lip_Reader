@@ -8,7 +8,7 @@ LipReader is a web application developed using the LipNet deep learning model fo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
